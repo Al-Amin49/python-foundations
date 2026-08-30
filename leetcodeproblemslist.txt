@@ -1,0 +1,2 @@
+1. 1207- Unique number of occurences --https://leetcode.com/problems/unique-number-of-occurrences/description/
+2. 
