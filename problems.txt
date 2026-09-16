@@ -1,3 +1,4 @@
 Problems
 - Nested list comprehension
-
+- dictionary hashable term
+- sorted ditionarie
